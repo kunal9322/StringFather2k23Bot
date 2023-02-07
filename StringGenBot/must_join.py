@@ -24,7 +24,7 @@ async def must_join_channel(bot: Client, msg: Message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("</> ᴅᴇᴠɪʟs ʜᴇᴀᴠᴇɴ", url=link),
+                                InlineKeyboardButton("</> ᴍᴜsᴛ ᴊᴏɪɴ <\>", url="https://t.me/StringGen2k23Bot"),
                             ]
                         ]
                     )
